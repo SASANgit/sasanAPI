@@ -20,14 +20,14 @@
 
 * chmod +x SASAN.sh
 * 🔺- ### remember it : put your information at config file !
-┄┄┄┄┄┄┄┄┄┄┄┄
+
 * 🔅- and then 👇
 * 🔅sudo service redis-server start
 * redis-server
-┄┄┄┄┄┄┄┄┄┄┄┄
+
 * 🔅- ## now launch it with :
 * screen ./SASAN.sh
-┄┄┄┄┄┄┄┄┄┄┄┄
+
 
 *🚀┋ My Ch : 
 [ @source_search ]
