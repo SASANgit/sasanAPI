@@ -1,9 +1,10 @@
 # sasanAPI
 ** The best anti-spam API source for telegram bots ** 
 # SASAN API
-* 🔱- SASAN API BASED ON TDCLI -🔱
+* ☰- SASAN API BASED ON TDCLI 
 
-* 🔅- OPEN A NEW TERMINAL 🔧👇
+* ❖- OPEN A NEW TERMINAL of the server....
+
 * sudo apt-get update
 
 * sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev
@@ -21,11 +22,11 @@
 * chmod +x SASAN.sh
 * 🔺- ### remember it : put your information at config file !
 
-* 🔅- and then 👇
-* 🔅sudo service redis-server start
+* ❖- and then 👇
+* ❖sudo service redis-server start
 * redis-server
 
-* 🔅- ## now launch it with :
+* ❖- ## now launch it with :
 * screen ./SASAN.sh
 
 
